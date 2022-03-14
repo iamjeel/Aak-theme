@@ -1,0 +1,21 @@
+{
+    "name": "aak-theme",
+    "displayName": "Aak-theme",
+    "description": "A Visual Studio Theme by Aak ",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Aak Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Aak Theme-color-theme.json"
+            }
+        ]
+    }
+}
